@@ -33,7 +33,7 @@ For example, if you want to see if both `var1` and `var2` are true, you can do s
 let var1 = true
 let var2 = true
 
-console.log(var1==true && var2==true) // == is the euality operator
+console.log(var1==true && var2==true) // == is the equality operator
 ```
 
 The last statement can be simplified to 
