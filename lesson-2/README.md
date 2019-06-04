@@ -1,4 +1,4 @@
-# Lesson 1
+# Lesson 2
 
 Create a console application that prints `Hello, world!`
 
@@ -12,7 +12,7 @@ Hello, world!
 undefined
 ```
 
-* Now, let's create a node application and run it. To get started, create a file called `index.js` in this folder, add the following content to it:
+* Now, let's create a node application and run it. To get started, open up vscode, `File->Open`, select this directory, create a file called `index.js` in this folder, add the following content to it:
 
 ```js
 console.log("Hello, world!")
@@ -27,5 +27,5 @@ node index.js
 You should see the following:
 
 ```
-Hello, world!
+Hello, world!   
 ```
