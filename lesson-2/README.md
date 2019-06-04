@@ -4,7 +4,7 @@ Create a console application that prints `Hello, world!`
 
 * Try it in the node interpeter first. Run `node` from the terminal. When the caret appears, type in:
 
-`console.log("Hello, world!)"`
+`console.log("Hello, world!")`
 
 This should print
 ```

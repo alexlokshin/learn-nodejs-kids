@@ -2,7 +2,7 @@
 
 ## Tasks
 
-##Install git
+## Install git
 * Mac: preinstalled
 * Windows: `choco install git.install -y`
 
