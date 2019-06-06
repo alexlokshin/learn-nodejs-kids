@@ -90,6 +90,19 @@ for (var i=0; i<myArray.length; i++){
 
 Run the program. What did it print?
 
+To add items to the array you can do something like
+
+```js
+myArray.push("abc")
+```
+
+To remove elements from an array, do this
+```js
+let lastElement = myArray.pop()
+```
+
+It will return a last element of the array (if the array is not empty).
+
 ## Undefined
 
 Undefined is a special type, it indicates a variable holds no value. For example, declare a new variable
