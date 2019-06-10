@@ -12,7 +12,7 @@
 
 # Install Node.js
 * Mac: `brew install node -y`
-* Windows: `choco install node -y` 
+* Windows: `choco install nodejs -y` 
 
 # Install vscode
 * Mac: `brew install visual-studio-code -y`
